@@ -1,6 +1,6 @@
 # 🚀 re — Repository of Everything
 
-Hey there! I'm Arya (or whatever your name is 😄), a Class 9 student learning web development, cracking code, and preparing for IIT!
+Hey there! I'm Asad (or whatever your name is 😄), a Class 9 student learning web development, cracking code, and preparing for IIT!
 
 This repository is a place where I:
 - 💡 Experiment with HTML, CSS, and JavaScript
